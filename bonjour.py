@@ -1,0 +1,1 @@
+print("salut tout le monde. j'ai mal partout")
